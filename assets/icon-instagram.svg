@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="insta" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#F4D03F"/>
+      <stop offset="100%" stop-color="#E8B4B8"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="30" fill="#0A0A0F"/>
+  <rect x="28" y="28" width="64" height="64" rx="18" fill="none" stroke="url(#insta)" stroke-width="10"/>
+  <circle cx="60" cy="60" r="18" fill="url(#insta)" opacity="0.95"/>
+  <circle cx="80" cy="38" r="6" fill="#fff" opacity="0.9"/>
+</svg>
